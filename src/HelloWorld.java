@@ -1,3 +1,4 @@
+import com.eightcriz.javastudy.Hello;
 
 public class HelloWorld{
         public static void main(String[] args) {
